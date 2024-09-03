@@ -1,0 +1,41 @@
+/* Light theme background for the entire page */
+.loginPage {
+    background-color: #f8f9fa; /* Light gray background */
+}
+
+.loginForm {
+    background-color: #ffffff; /* White background for the login form */
+    border: 1px solid #ced4da; /* Light gray border */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Light shadow */
+}
+
+.form-control {
+    border: 1px solid #ced4da; /* Light gray border for inputs */
+    border-radius: 0.25rem; /* Rounded corners for inputs */
+}
+
+.btn-success {
+    background-color: #28a745; /* Green background */
+    border-color: #28a745; /* Green border */
+    color: #ffffff; /* White text color */
+}
+
+.btn-success:hover {
+    background-color: #218838; /* Darker green on hover */
+    border-color: #1e7e34; /* Darker green border on hover */
+}
+
+label {
+    color: #495057; /* Dark gray text color for labels */
+}
+
+input[type="checkbox"] {
+    accent-color: #28a745; /* Green color for checkbox */
+}
+
+.navbar {
+    background-color: #ffffff; /* White background for navbar */
+    color: #495057; /* Dark gray text color */
+}
+
+
